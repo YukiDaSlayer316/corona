@@ -4,7 +4,7 @@ Every living organism is made of ADN , a long sequence of character called nucle
 
 # Trials
 
-Technically, if we consider all 3-combinations of nucleotides, if we presume that the same nucleotide more than once in the same codon, there are 64 combinations (4x4x4). However, because different nucleotide have different roles, we assume that we don't want the codon to contain the same nucleotide twice. Therefore, we have 24 combinations (4x3x2). However, there are only 20 amino acids. That means that in the corona's ADN sequence, 4 of these sequences have been encoded differently and have been replaced by another amino-acid. 
+Technically, if we consider all 3-combinations of nucleotides, if we presume that the same nucleotide more than once in the same codon, there are 64 combinations (4x4x4). However, because different nucleotide have different roles, we assume that we don't want the codon to contain the same nucleotide twice. Therefore, we have 24 combinations (4x3x2). However, there are only 20 amino acids. That means that in the corona's ADN sequence, 4 of these sequences have been encoded differently and have been replaced by another amino-acid ie more than one codon can refer to the same amino-acid. This phenomenon is called the DEGENERACY OF THE CODE
 
 To find these replacements, we have to search which of these combinations are missing from the sequence. To do so, we will cluster the ADN by its codon, associate each codon to its amino-acid and find which pairs are missing. I will assume that the missing pairs have been replaced by a similar amino acid. Consequently, we will compare the similarity of the 4 missing codons with the 20 amino acids using several metrics: 
 
