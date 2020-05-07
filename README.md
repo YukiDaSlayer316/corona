@@ -23,6 +23,9 @@ Amino Acids Data Encryption: https://medcraveonline.com/JAPLR/amino-acids-in-dat
 Amino Acids replacement: https://en.wikipedia.org/wiki/Amino_acid_replacement
 
 # Articles
+Genome assembly: https://betatim.github.io/posts/genome-hackers/
+
+# Articles
 
 Why are there obly 20 amino acids: https://www.chemistryworld.com/features/why-are-there-20-amino-acids/3009378.article
 
