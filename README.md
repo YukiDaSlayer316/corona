@@ -16,6 +16,12 @@ To find these replacements, we have to search which of these combinations are mi
 
 We will combine those metrics into a single one that will reveal what are the properties of the missing codons.
 
+# Packages
+
+- Biopython: https://github.com/biopython/biopython
+- nglview: https://github.com/arose/nglview
+- pytraj: https://github.com/Amber-MD/pytraj
+
 # Useful Links
 
 Amino Acids reference chart: https://www.sigmaaldrich.com/life-science/metabolomics/learning-center/amino-acid-reference-chart.html
@@ -23,9 +29,10 @@ Amino Acids Data Encryption: https://medcraveonline.com/JAPLR/amino-acids-in-dat
 Amino Acids replacement: https://en.wikipedia.org/wiki/Amino_acid_replacement
 
 # Articles
+
 Genome assembly: https://betatim.github.io/posts/genome-hackers/
 
-# Articles
-
 Why are there obly 20 amino acids: https://www.chemistryworld.com/features/why-are-there-20-amino-acids/3009378.article
+
+
 
