@@ -34,5 +34,9 @@ Genome assembly: https://betatim.github.io/posts/genome-hackers/
 
 Why are there obly 20 amino acids: https://www.chemistryworld.com/features/why-are-there-20-amino-acids/3009378.article
 
+# More
+
+Biochemistry
+
 
 
